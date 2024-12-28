@@ -8,6 +8,8 @@ Things Learnt
 
 Using Material Theme, typography, color, shapes, dimension resources
 
+Animations, and animate color state
+
 Dark Theme and Light Theme
 
 Scaffold significance
