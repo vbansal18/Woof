@@ -3,23 +3,18 @@ Woof App
 
 The Woof app is a list of dog photos with information about them including their name, age, and favorite activity. This app also uses Material Design to create a beautiful app experience for the user.
 
-Introduction
-------------
+Things Learnt
+==================================
 
-This is the starter code for the Woof app project. This project is an opportunity for you to learn Material3 and reinforce the concepts you've learned so far in Android Basics with Compose.
+Using Material Theme, typography, color, shapes, dimension resources
+Dark Theme and Light Theme
+Scaffold significance
 
-Pre-requisites
---------------
+Tech used : 
+==================================
 
-- Rows/Columns
-- Modifiers
-- Scaffold
-- Adding images
-- Button click handlers
-- Functions
-- Classes
-- Lists
-- App architecture
+Jetpack compose
+Material design
 
 Getting Started
 ---------------
@@ -27,3 +22,5 @@ Getting Started
 1. Download the project
 2. Open the project in Android Studio
 3. Run the project
+![image](https://github.com/user-attachments/assets/c43346f2-a300-4cac-886c-629ad7f606ff)  ![image](https://github.com/user-attachments/assets/6cfa8f1c-f951-4a0a-8faf-2a208be656fe)
+
