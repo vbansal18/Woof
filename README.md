@@ -6,14 +6,17 @@ The Woof app is a list of dog photos with information about them including their
 Things Learnt
 ==================================
 
-Using Material Theme, typography, color, shapes, dimension resources\n
-Dark Theme and Light Theme\n
-Scaffold significance\n
+Using Material Theme, typography, color, shapes, dimension resources
+
+Dark Theme and Light Theme
+
+Scaffold significance
 
 Tech used : 
 ==================================
 
 Jetpack compose
+
 Material design
 
 Getting Started
